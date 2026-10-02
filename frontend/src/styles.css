@@ -1,0 +1,5 @@
+html { min-width: 320px; min-height: 100%; background: #f5f7f4; }
+body { min-width: 320px; min-height: 100vh; margin: 0; }
+button, input, select { font: inherit; }
+button:focus-visible, a:focus-visible, input:focus-visible, select:focus-visible { outline: 2px solid #4b9b8c; outline-offset: 2px; }
+::selection { color: #173a36; background: #cce7d9; }
